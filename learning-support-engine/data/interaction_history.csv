@@ -1,0 +1,13 @@
+timestamp,field,problem,cleaned_text,primary_emotion,primary_confidence,secondary_emotions,bilstm_scores,bert_emotion,bert_confidence,bert_scores,ai_enabled,response
+2026-07-12 13:26:49.588827,Computer Science,"What is AI?
+",what is ai ?,anger,0.5231396555900574,"[{""emotion"": ""love"", ""confidence"": 0.28664958477020264}]","{""anger"": 0.5231396555900574, ""fear"": 0.044381819665431976, ""joy"": 0.08933597803115845, ""love"": 0.28664958477020264, ""sadness"": 0.041313525289297104, ""surprise"": 0.015179534442722797}",joy,0.7239505648612976,"{""sadness"": 0.1791830062866211, ""joy"": 0.7239505648612976, ""love"": 0.027940666303038597, ""anger"": 0.00254086428321898, ""fear"": 0.03284080699086189, ""surprise"": 0.033544059842824936}",True,"Hey there! I can definitely sense some frustration, and it's completely understandable to feel that way when tackling a concept as broad and impactful as Artificial Intelligence. Many people feel overwhelmed by it initially, so you're not alone!
+
+So, what is AI? At its heart, **Artificial Intelligence (AI)** is a field of computer science focused on creating machines that can perform tasks traditionally requiring human intelligence. This includes things like learning, problem-solving, understanding language, recognizing patterns, and making decisions. Essentially, it's about designing systems that can simulate or mimic human cognitive functions.
+
+Here are 3 practical tips to help you get a clearer grasp:
+
+1.  **Start with the Foundations:** Before diving into complex AI, ensure you have a solid understanding of related areas like data structures, algorithms, and basic statistics. These are the building blocks.
+2.  **Break it Down:** AI isn't one monolithic thing; it's an umbrella term. Explore specific sub-fields like Machine Learning, Natural Language Processing, or Computer Vision individually. Tackle one piece at a time.
+3.  **Get Hands-On:** Theory is great, but practical application is key. Try implementing simple AI algorithms in Python (like a basic search algorithm or a small classification model). Seeing it work makes a huge difference.
+
+You've got this! Every expert started exactly where you are, asking fundamental questions. Keep that curiosity alive and keep digging—you'll conquer it step by step!"

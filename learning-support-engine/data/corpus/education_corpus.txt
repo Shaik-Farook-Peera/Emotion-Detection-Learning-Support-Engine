@@ -1,0 +1,80 @@
+Students should review lecture notes before examinations.
+
+Effective learning requires regular practice and revision.
+
+Assignments help reinforce classroom concepts.
+
+Academic performance improves with consistent study habits.
+
+Teachers encourage students to ask questions during class.
+
+Understanding concepts is more important than memorizing answers.
+
+Time management is essential for examination preparation.
+
+Group discussions enhance collaborative learning.
+
+Students often experience stress before examinations.
+
+Online learning platforms provide interactive educational resources.
+
+Critical thinking is an important academic skill.
+
+Homework helps students retain knowledge.
+
+Project-based learning develops practical skills.
+
+Reading textbooks improves conceptual understanding.
+
+Learning is a continuous process of acquiring knowledge.
+Students should attend lectures regularly.
+Learning requires patience and consistency.
+Assignments help reinforce theoretical concepts.
+Teachers encourage active classroom participation.
+Programming skills improve through daily coding practice.
+Artificial Intelligence is transforming education.
+Machine Learning is a branch of Artificial Intelligence.
+Deep Learning uses neural networks to solve complex problems.
+Natural Language Processing enables computers to understand text.
+Students should revise concepts before examinations.
+Data Structures improve problem solving skills.
+Algorithms help solve computational problems efficiently.
+Object Oriented Programming improves software design.
+Java is widely used for enterprise applications.
+Python is popular for Artificial Intelligence development.
+SQL is used to manage relational databases.
+Git helps developers manage source code versions.
+Software engineering follows systematic development practices.
+Students should complete practical projects regularly.
+Hands-on learning improves technical understanding.
+Reading documentation improves programming knowledge.
+Debugging is an essential programming skill.
+Version control helps teams collaborate effectively.
+Cloud computing provides scalable computing resources.
+Cybersecurity protects digital systems from attacks.
+Computer Networks enable communication between devices.
+Operating Systems manage computer hardware efficiently.
+Data Science combines statistics and programming.
+Mathematics forms the foundation of Machine Learning.
+Linear Algebra is important for Deep Learning.
+Probability helps analyze uncertain events.
+Students should ask questions whenever concepts are unclear.
+Regular revision improves long-term memory.
+Examinations evaluate student understanding.
+Projects demonstrate practical knowledge.
+Coding interviews require strong DSA skills.
+Practice is the key to mastering programming.
+Learning never stops in technology.
+Students should revise lecture notes every day.
+Consistent practice improves programming skills.
+Artificial Intelligence is changing modern education.
+Data Structures are essential for coding interviews.
+Teachers encourage students to ask thoughtful questions.
+Object Oriented Programming improves code reusability.
+Students should complete assignments before deadlines.
+Machine Learning models require quality training data.
+Deep Learning uses multiple neural network layers.
+Version control helps software teams collaborate efficiently.
+SQL is used to query relational databases.
+Cloud computing enables scalable application deployment.
+Debugging helps identify and fix software defects.
