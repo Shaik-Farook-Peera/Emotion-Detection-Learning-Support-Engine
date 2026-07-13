@@ -20,7 +20,7 @@ scikit-learn
 # ==========================
 # Deep Learning
 # ==========================
-tensorflow
+tensorflow==2.16.1
 
 # ==========================
 # BERT / Hugging Face
