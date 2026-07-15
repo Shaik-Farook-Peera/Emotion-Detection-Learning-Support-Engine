@@ -18,4 +18,4 @@
 
 8.Project Demonstration
 
-Replace the placeholder files with your team's project deliverables.
+Project Video Link: https://drive.google.com/file/d/12Tz6wC7M3FRnU5I17bswLgyYapB0TWIw/view?usp=sharing
